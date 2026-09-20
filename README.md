@@ -1,4 +1,4 @@
-# Build Your Signal - Cohort 1
+# Build Your Signal
 
 > Your degree opens the door. Your signal shows what you can do.
 
