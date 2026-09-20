@@ -46,6 +46,10 @@ This is a six-week, GitHub-native program for students who want to turn their wo
 | **Proof** | Show what you can do | GitHub |
 | **Voice** | Share how you think | Posts and conversations |
 
+## See a complete example
+
+Read [Aanya's Responsible AI in Fintech journey](examples/aanya-responsible-ai-fintech-journey.md) for a fictional, end-to-end example of how a final-year DTU computer science student can use the six weeks to build a credible professional signal.
+
 ## Need help?
 
 Bring the specific thing you are stuck on to the weekly live doubts session. The fastest way to get useful feedback is to share a link, a draft, and the question you want answered.
